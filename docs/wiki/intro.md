@@ -23,7 +23,7 @@ The Vampire and Vampire Hunter Mod introduces a captivating dynamic to your Mine
 
 To embark on your journey as a vampire or a vampire hunter, follow these steps:
 
-1. **Install Forge**: Download and install [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) onto your Minecraft instance
+1. **Install Forge**: Download and install [Neoforge](https://neoforged.net/) onto your Minecraft instance
 2. **Install the Mod**: Download and install the Vampirism Mod onto your Minecraft instance from [Curseforge](https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire) or [Modrinth](https://modrinth.com/mod/vampirism)
 3. **Create a New World**: Launch Minecraft and create a new world, enabling the mod within the game settings.
 4. **Choose Your Path**: Decide whether you want to become a vampire or a vampire hunter. Each path offers unique gameplay mechanics and challenges. And find out how you can become either of them.
